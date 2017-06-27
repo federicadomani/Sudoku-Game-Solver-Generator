@@ -21,3 +21,5 @@ Features:
 * Absolutely independent on .Net framework, side DLL or any 3rd party components - it can be run on bare Windows 7 to 10 operating system.
 * Free open source application with all the professional capabilities without Ads today and forever.
 * SHA256(Setup_SudokuGameSolverGenerator_1_0_0_0.exe)= 696e7b7895a04264e020fdc57335658c932af9306af5710f99edddce2bd125bd.
+
+See also a [mirror](https://sourceforge.net/projects/sudoku-game-solver-generator/) of this project.
