@@ -2,7 +2,7 @@
  */
 #include "common.h"
 
-#define SUDOKU_VERSION_STRING "1.0.0"
+#define SUDOKU_VERSION_STRING "1.0.1"
 
 /// This is the class which wxWidgets needs to IMPLEMENT in order
 /// to provide the main entry point in the application (wxWidgets
